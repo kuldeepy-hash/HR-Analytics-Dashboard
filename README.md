@@ -60,10 +60,4 @@ IBM HR Analytics Employee Attrition Dataset
 
 ---
 
-## 👨‍💻 Author
 
-Kuldeep Yadav
-
-LinkedIn: (Add Link)
-
-GitHub: https://github.com/kuldeepy

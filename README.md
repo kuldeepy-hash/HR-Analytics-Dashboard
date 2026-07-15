@@ -7,7 +7,7 @@ This project is an interactive HR Analytics Dashboard built using Microsoft Powe
 
 ## 📊 Dashboard Preview
 
-(Add your dashboard screenshot here)
+![HR Analytics Dashboard](HR_Analytics_Dashboard.png)
 
 ---
 
@@ -50,7 +50,7 @@ This project is an interactive HR Analytics Dashboard built using Microsoft Powe
 
 - Microsoft Power BI
 - Power Query
-- DAX (Planned for Advanced KPIs)
+- Microsoft Excel
 
 ---
 
